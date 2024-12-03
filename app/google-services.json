@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652245411224",
+    "firebase_url": "https://campus-recruitment-syste-87926-default-rtdb.firebaseio.com",
+    "project_id": "campus-recruitment-syste-87926",
+    "storage_bucket": "campus-recruitment-syste-87926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652245411224:android:0c99b9fe259d44bf6677ed",
+        "android_client_info": {
+          "package_name": "com.dhruv.campusrecruitmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652245411224-fre2euv1vtp6r3ad629514bo1j2cr529.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxw80_zW8dhMnWbi_vp6c8EhurVWQcT3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652245411224-fre2euv1vtp6r3ad629514bo1j2cr529.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
